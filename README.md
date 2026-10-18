@@ -1,4 +1,4 @@
-# Functional Programming Practical Week 6
+# Functional Programming Practical Week 6 <br> Makhambet Aidynuly IT-2504
 
 This project contains the selected tasks:
 
